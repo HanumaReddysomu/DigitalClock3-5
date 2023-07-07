@@ -9,6 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     background-size: 100%;
+    backgrount-repeat: no-repeat;
 }
 #container{
     width: 80%;
